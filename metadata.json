@@ -1,0 +1,6 @@
+{
+  "name": "APEX MOTORS | Engineered Beyond Limits",
+  "description": "Ultra-luxury concept supercar digital experience, interactive 3D configurator, and high-performance automotive engineering showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
